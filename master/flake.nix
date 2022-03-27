@@ -11,6 +11,7 @@
   inputs.src-deser_json-master.ref   = "refs/heads/master";
   inputs.src-deser_json-master.owner = "gabbhack";
   inputs.src-deser_json-master.repo  = "deser_json";
+  inputs.src-deser_json-master.dir   = "";
   inputs.src-deser_json-master.type  = "github";
   
   inputs."faststreams".owner = "nim-nix-pkgs";
